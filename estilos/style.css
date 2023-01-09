@@ -63,3 +63,12 @@ div#formulario > p {
     font-size: 0.8em;
 } 
 
+.material-symbols-sharp {
+  font-variation-settings:
+  'FILL' 2,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+
+
