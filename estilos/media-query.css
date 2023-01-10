@@ -28,7 +28,7 @@ Grandes telas: acima de 1200px
 }
 
 /* Media Para celular Moto G30 */
-@media screen and (min-width: 720px) and (max-width: 1600px) {
+@media screen and (min-width: 1600px) and (max-width: 1920px) {
     div.campo > input {
         position: relative;
         top: -1px;
